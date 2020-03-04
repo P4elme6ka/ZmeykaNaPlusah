@@ -1,0 +1,106 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(33,31): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(33,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "GraphicsState"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(533,8): error C7525: Для встроенных переменных требуется по меньшей мере уровень "/std:c++17"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(534,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(534,1): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ObjectTypeIsValid"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(537,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(560,44): error C2065: META_SETBKCOLOR: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(560,87): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(561,44): error C2065: META_SETBKMODE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(561,86): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(562,44): error C2065: META_SETMAPMODE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(562,87): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(563,44): error C2065: META_SETROP2: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(563,84): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(564,44): error C2065: META_SETRELABS: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(564,86): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(565,44): error C2065: META_SETPOLYFILLMODE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(565,92): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(566,44): error C2065: META_SETSTRETCHBLTMODE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(566,94): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(567,44): error C2065: META_SETTEXTCHAREXTRA: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(567,93): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(568,44): error C2065: META_SETTEXTCOLOR: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(568,89): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(569,44): error C2065: META_SETTEXTJUSTIFICATION: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(569,97): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(570,44): error C2065: META_SETWINDOWORG: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(570,89): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(571,44): error C2065: META_SETWINDOWEXT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(571,89): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(572,44): error C2065: META_SETVIEWPORTORG: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(572,91): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(573,44): error C2065: META_SETVIEWPORTEXT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(573,91): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(574,44): error C2065: META_OFFSETWINDOWORG: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(574,92): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(575,44): error C2065: META_SCALEWINDOWEXT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(575,91): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(576,44): error C2065: META_OFFSETVIEWPORTORG: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(576,94): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(577,44): error C2065: META_SCALEVIEWPORTEXT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(577,93): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(578,44): error C2065: META_LINETO: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(578,83): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(579,44): error C2065: META_MOVETO: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(579,83): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(580,44): error C2065: META_EXCLUDECLIPRECT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(580,92): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(581,44): error C2065: META_INTERSECTCLIPRECT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(581,94): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(582,44): error C2065: META_ARC: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(582,80): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(583,44): error C2065: META_ELLIPSE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(583,84): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(584,44): error C2065: META_FLOODFILL: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(584,86): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(585,44): error C2065: META_PIE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(585,80): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(586,44): error C2065: META_RECTANGLE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(586,86): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(587,44): error C2065: META_ROUNDRECT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(587,86): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(588,44): error C2065: META_PATBLT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(588,83): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(589,44): error C2065: META_SAVEDC: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(589,83): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(590,44): error C2065: META_SETPIXEL: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(590,85): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(591,44): error C2065: META_OFFSETCLIPRGN: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(591,90): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(592,44): error C2065: META_TEXTOUT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(592,84): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(593,44): error C2065: META_BITBLT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(593,83): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(594,44): error C2065: META_STRETCHBLT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(594,87): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(595,44): error C2065: META_POLYGON: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(595,84): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(596,44): error C2065: META_POLYLINE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(596,85): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(597,44): error C2065: META_ESCAPE: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(597,83): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(598,44): error C2065: META_RESTOREDC: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(598,86): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(599,44): error C2065: META_FILLREGION: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(599,87): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(600,44): error C2065: META_FRAMEREGION: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(600,88): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(601,44): error C2065: META_INVERTREGION: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(601,89): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(602,44): error C2065: META_PAINTREGION: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(602,88): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(603,44): error C2065: META_SELECTCLIPREGION: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(603,93): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(604,44): error C2065: META_SELECTOBJECT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(604,89): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(605,44): error C2065: META_SETTEXTALIGN: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(605,89): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(607,44): error C2065: META_CHORD: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(607,82): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(608,44): error C2065: META_SETMAPPERFLAGS: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(608,91): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(609,44): error C2065: META_EXTTEXTOUT: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(609,87): error C2056: недопустимое выражение
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GdiplusEnums.h(609,87): fatal error C1003: число ошибок превышает 100; остановка компиляции
